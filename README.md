@@ -60,5 +60,5 @@ Welcome to the News App project! This ReactJS project is set up with Vite, utili
  - React-router-dom
  - Firebase
    
-## Installation
+## Contribution
 Contributions are welcome! Feel free to open issues or pull requests.
